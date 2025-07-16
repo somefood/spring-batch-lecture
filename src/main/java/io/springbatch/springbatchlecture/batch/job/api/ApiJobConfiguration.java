@@ -1,6 +1,6 @@
 package io.springbatch.springbatchlecture.batch.job.api;
 
-import io.springbatch.springbatchlecture.batch.listner.JobListener;
+import io.springbatch.springbatchlecture.batch.listener.JobListener;
 import io.springbatch.springbatchlecture.batch.tasklet.ApiEndTasklet;
 import io.springbatch.springbatchlecture.batch.tasklet.ApiStartTasklet;
 import lombok.RequiredArgsConstructor;
